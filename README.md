@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @beckypangpang
-- 👀 I’m interested in Boxing, Hiking and Cooking
-- 🌱 I’m currently learning data analysis and machine learning
-- 💞️ I’m looking to collaborate on ...
+- 🏗️ I’m a Master of Data Science student at The University of Adelaide
+- 💻 Promgramming language: Python, R studio
+- 🌱 Currently learning Deep Learning, Microsoft Azure
+- 👀 I’m interested in Muay Thai, Hiking and Cooking
 - 📫 How to reach me ...
 
 <!---
